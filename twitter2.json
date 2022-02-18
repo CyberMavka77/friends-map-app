@@ -1,0 +1,589 @@
+{
+    "users": [
+        {
+            "id": 1017640528425439232,
+            "id_str": "1017640528425439232",
+            "name": "Nazar",
+            "screen_name": "demchvk",
+            "location": "California, USA",
+            "description": "Python Senior Developer at @tesla.\nHappy Son, Dad, Brother, and Husband.\nWinner of Granny and Guinness records breaker.\nMiss Universe 2022.",
+            "url": "https://t.co/pa44qNbq3g",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/pa44qNbq3g",
+                            "expanded_url": "http://tesla.com",
+                            "display_url": "tesla.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13,
+            "friends_count": 14,
+            "listed_count": 5,
+            "created_at": "Fri Jul 13 05:23:03 +0000 2018",
+            "favourites_count": 8,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2,
+            "lang": null,
+            "status": {
+                "created_at": "Sat Feb 12 20:07:29 +0000 2022",
+                "id": 1492591208304107525,
+                "id_str": "1492591208304107525",
+                "text": "@elonmusk ключі від тесли в мене, ти не вмієш пити",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "elonmusk",
+                            "name": "Elon Musk",
+                            "id": 44196397,
+                            "id_str": "44196397",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": 1492588096537473029,
+                "in_reply_to_status_id_str": "1492588096537473029",
+                "in_reply_to_user_id": 1017640528425439232,
+                "in_reply_to_user_id_str": "1017640528425439232",
+                "in_reply_to_screen_name": "demchvk",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "uk"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1492067015858823172/3ebJ9BWi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492067015858823172/3ebJ9BWi_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017640528425439232/1644698805",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        {
+            "id": 941392725177454592,
+            "id_str": "941392725177454592",
+            "name": "Владиславікус",
+            "screen_name": "Hummlad",
+            "location": "Ukraine",
+            "description": "Заурядна особистість, nothing special",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 16,
+            "friends_count": 73,
+            "listed_count": 0,
+            "created_at": "Thu Dec 14 19:41:30 +0000 2017",
+            "favourites_count": 7194,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 29,
+            "lang": null,
+            "status": {
+                "created_at": "Thu Feb 17 18:46:05 +0000 2022",
+                "id": 1494382660222869506,
+                "id_str": "1494382660222869506",
+                "text": "@duriankaa @mrkorchsorch Програмування змусило…",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "duriankaa",
+                            "name": "дора ✩⡱ 🐻",
+                            "id": 1305001328830230528,
+                            "id_str": "1305001328830230528",
+                            "indices": [
+                                0,
+                                10
+                            ]
+                        },
+                        {
+                            "screen_name": "mrkorchsorch",
+                            "name": "Yaroslav Korch",
+                            "id": 1492071610089709604,
+                            "id_str": "1492071610089709604",
+                            "indices": [
+                                11,
+                                24
+                            ]
+                        }
+                    ],
+                    "urls": []
+                },
+                "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+                "in_reply_to_status_id": 1494381890190680067,
+                "in_reply_to_status_id_str": "1494381890190680067",
+                "in_reply_to_user_id": 1305001328830230528,
+                "in_reply_to_user_id_str": "1305001328830230528",
+                "in_reply_to_screen_name": "duriankaa",
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "uk"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1349646288552402947/Hr1J2eMU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1349646288552402947/Hr1J2eMU_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        {
+            "id": 1492071610089709604,
+            "id_str": "1492071610089709604",
+            "name": "Yaroslav Korch",
+            "screen_name": "mrkorchsorch",
+            "location": "London, England",
+            "description": "CMS - chess, math, silence. In that order. Trash killer",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12,
+            "friends_count": 15,
+            "listed_count": 3,
+            "created_at": "Fri Feb 11 09:43:09 +0000 2022",
+            "favourites_count": 22,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5,
+            "lang": null,
+            "status": {
+                "created_at": "Fri Feb 18 11:43:46 +0000 2022",
+                "id": 1494638768854339599,
+                "id_str": "1494638768854339599",
+                "text": "Бажаю бути такими ж популярними: щоб вас рекламували 🥸 https://t.co/NNMLruAb9c",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 1494638762441199617,
+                            "id_str": "1494638762441199617",
+                            "indices": [
+                                55,
+                                78
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FL4GCRbWUAE7QCS.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FL4GCRbWUAE7QCS.jpg",
+                            "url": "https://t.co/NNMLruAb9c",
+                            "display_url": "pic.twitter.com/NNMLruAb9c",
+                            "expanded_url": "https://twitter.com/mrkorchsorch/status/1494638768854339599/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 515,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 909,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1552,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1494638762441199617,
+                            "id_str": "1494638762441199617",
+                            "indices": [
+                                55,
+                                78
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/FL4GCRbWUAE7QCS.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/FL4GCRbWUAE7QCS.jpg",
+                            "url": "https://t.co/NNMLruAb9c",
+                            "display_url": "pic.twitter.com/NNMLruAb9c",
+                            "expanded_url": "https://twitter.com/mrkorchsorch/status/1494638768854339599/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 515,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 909,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1552,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 3,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "uk"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1492071822694785045/pvocp7G4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1492071822694785045/pvocp7G4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492071610089709604/1644697825",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        {
+            "id": 1165179606615449602,
+            "id_str": "1165179606615449602",
+            "name": "Redninja",
+            "screen_name": "redn1njaa",
+            "location": "Lviv, Ukraine",
+            "description": "Doter.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11,
+            "friends_count": 72,
+            "listed_count": 0,
+            "created_at": "Sat Aug 24 08:30:50 +0000 2019",
+            "favourites_count": 2351,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 0,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1491346975345856514/DRZL64GN_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491346975345856514/DRZL64GN_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        {
+            "id": 1493544908438790144,
+            "id_str": "1493544908438790144",
+            "name": "Nataly Chaika",
+            "screen_name": "ChaikaNat",
+            "location": "",
+            "description": "APPS UCU 2021\n#Ukr",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4,
+            "friends_count": 10,
+            "listed_count": 0,
+            "created_at": "Tue Feb 15 11:17:30 +0000 2022",
+            "favourites_count": 5,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 0,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1493904370915815425/Fl3_dOKV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1493904370915815425/Fl3_dOKV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493544908438790144/1644923949",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        {
+            "id": 17718831,
+            "id_str": "17718831",
+            "name": "Радіо Свобода",
+            "screen_name": "radiosvoboda",
+            "location": "Kyiv, вул. Антоновича, 46",
+            "description": "Авторська сторінка Радіо Свобода\nНовини/Аналітика/Фото/Відео/         \nтел: +380 44 490 29 00\nРетвіти ≠ схвалення",
+            "url": "https://t.co/UoL6R74Sse",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/UoL6R74Sse",
+                            "expanded_url": "https://t.me/svoboda_radio",
+                            "display_url": "t.me/svoboda_radio",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 464543,
+            "friends_count": 784,
+            "listed_count": 1492,
+            "created_at": "Fri Nov 28 20:32:20 +0000 2008",
+            "favourites_count": 3431,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 464495,
+            "lang": null,
+            "status": {
+                "created_at": "Fri Feb 18 17:39:20 +0000 2022",
+                "id": 1494728250903482371,
+                "id_str": "1494728250903482371",
+                "text": "У Києві в Михайлівському соборі проходить панихида за Героями Небесної Сотні.\n\nБогослужіння проводить предстоятель… https://t.co/6kZTK95NMS",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/6kZTK95NMS",
+                            "expanded_url": "https://twitter.com/i/web/status/1494728250903482371",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 16,
+                "favorite_count": 41,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "uk"
+            },
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "5C666F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/779281727550320640/S94grX4T_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/779281727550320640/S94grX4T_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/17718831/1611845149",
+            "profile_link_color": "EA6903",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        }
+    ],
+    "next_cursor": 0,
+    "next_cursor_str": "0",
+    "previous_cursor": 0,
+    "previous_cursor_str": "0",
+    "total_count": null
+}
