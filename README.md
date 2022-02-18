@@ -15,3 +15,5 @@ Enjoy:
 
 <img width="1247" alt="Screenshot 2022-02-18 at 20 01 37" src="https://user-images.githubusercontent.com/92826232/154737540-331ae837-bad6-4bda-a9f9-a34387e73165.png">
 
+You also may run code on local server
+For doing this in hidden.py insert your twitter API keys and run friends_web.py
